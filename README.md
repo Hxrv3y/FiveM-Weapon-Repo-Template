@@ -13,3 +13,8 @@ Step 4: Go into weaponNames and add the weapons spawn name in the WEAPON_ after 
 Step 5: Go in game and test.
 
 Hope this helped
+
+
+# TO DO
+
+- Add a weapons on back script
